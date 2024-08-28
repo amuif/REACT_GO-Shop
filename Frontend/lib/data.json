@@ -1,0 +1,30 @@
+{
+  "watches": [
+    {
+      "name": "watch 01",
+      "image": "../public/pexels-pixabay-277390.jpg",
+      "price": " 500ETB"
+    },
+    {
+      "name": "watch 02",
+      "image": "../public/pexels-ferarcosn-190819.jpg",
+      "price": "700ETB"
+    },
+    {
+      "name": "watch 03",
+      "image": "../public/pexels-jatin-anand-33853-125779.jpg",
+      "price": "1000ETB"
+    },
+    {
+      "name": "watch 04",
+      "image": "../public/pexels-anthony-derosa-39577-236915.jpg",
+      "price": "800ETB"
+    },
+
+    {
+      "name": "watch 05",
+      "image": "../public/pexels-joey-nguy-n-1056657-2113994.jpg",
+      "price": "900ETB"
+    }
+  ]
+}

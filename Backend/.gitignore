@@ -1,0 +1,8 @@
+.env
+
+#logs
+*.log
+
+*.exe
+*.out
+
